@@ -1,0 +1,90 @@
+<!-- <section class="service py-5">
+        <div class="container text-center">
+            <div class="title pb-5">
+                <h3 class="text-uppercase">services</h3>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+                <div class="brdr1"></div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="bg-white py-5 position-relative service-content mb-4">
+                        <div class="icons  d-flex justify-content-center align-items-center rounded-circle position-absolute">
+                            <i class="fas fa-desktop  "></i>
+                        </div>
+                        <div class="pt-5">
+                            <h2 class="pt-5">WEB DESIGN</h2>
+                            <p class="text-muted px-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident.</p>
+                        </div>
+
+                    </div>
+                    
+                    <div class="bg-white py-5 position-relative service-content">
+                        <div class="icons  d-flex justify-content-center align-items-center rounded-circle position-absolute">
+                            <i class="fas fa-mobile-alt "></i>
+                        </div>
+                        <div class="pt-5">
+                            <h2 class="pt-5">RESPONSIVE DESIGN</h2>
+                            <p class="text-muted px-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident.</p>
+                        </div>
+
+                    </div>
+                </div>
+
+
+
+                <div class="col-md-4">
+                    <div class="bg-white py-5 position-relative service-content mb-4">
+                        <div class="icons  d-flex justify-content-center align-items-center rounded-circle position-absolute">
+                            <i class="fas fa-code "></i>
+                        </div>
+                        <div class="pt-5">
+                            <h2 class="pt-5">WEB DEVELOPMENT</h2>
+                            <p class="text-muted px-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident.</p>
+                        </div>
+
+                    </div>
+                    
+                    <div class="bg-white py-5 position-relative service-content">
+                        <div class="icons  d-flex justify-content-center align-items-center rounded-circle position-absolute">
+                            <i class="fas fa-paint-brush "></i>
+                        </div>
+                        <div class="pt-5">
+                            <h2 class="pt-5">GRAPHIC DESIGN</h2>
+                            <p class="text-muted px-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident.</p>
+                        </div>
+
+                    </div>
+                </div>
+
+
+                
+                <div class="col-md-4">
+                    <div class="bg-white py-5 position-relative service-content mb-4">
+                        <div class="icons  d-flex justify-content-center align-items-center rounded-circle position-absolute">
+                            <i class="fas fa-camera "></i>
+                        </div>
+                        <div class="pt-5">
+                            <h2 class="pt-5">PHOTOGRAPHY</h2>
+                            <p class="text-muted px-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident.</p>
+                        </div>
+
+                    </div>
+                    
+                    <div class="bg-white py-5 position-relative service-content">
+                        <div class="icons  d-flex justify-content-center align-items-center rounded-circle position-absolute">
+                            <i class="fas fa-signal"></i>
+                        </div>
+                        <div class="pt-5">
+                            <h2 class="pt-5">MARKETING SERVICES</h2>
+                            <p class="text-muted px-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident.</p>
+                        </div>
+
+                    </div>
+                </div>
+ 
+            </div>
+        </div>
+
+    </section> -->
